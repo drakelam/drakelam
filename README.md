@@ -16,7 +16,7 @@ I am a FreeLancer Developer, programming .NET, Java, Python, ... I like to learn
 - 😂 You're curious about my hobbies: Um, I also have many hobbies, such as traveling, sleeping, playing basketball, soccer, watching movies, of course there is another hobby, writing CODE .
 - ⚡ Interesting fact: Um! Well, I'm pretty handsome, and I don't have a girlfriend yet😂😂😂😂😂.
 - 😘: Favorite motto: "Sometimes life will throw bricks in your head. Don't lose faith." - Steve Jobs
-- 😝: My motto: "Haven't thought out yet! Share it if you think it!"
+- 😝: My motto: "Haven't think it yet! If you think it, I'll share it right away!"
 
 ### Languages and Tools:
 
