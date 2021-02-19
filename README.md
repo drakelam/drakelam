@@ -45,7 +45,6 @@ I am a FreeLancer Developer, programming .NET, Java, Python, ... I like to learn
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api/?username=drakelam&count_private=true&theme=tokyonight&showicons=true)](https://github.com/drakelam)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=drakelam&color=blue)
   ----
   
 </details>
