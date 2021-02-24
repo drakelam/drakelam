@@ -5,7 +5,7 @@
 
 <a href="https://drakelam.com"><img src="https://drakelam.github.io/DrakeUI-Framework/image/drakelam.gif" align="right" height="300" /></a>
 
-I am a FreeLancer Developer, programming .NET, Java, Python, ... I like to learn, exchange and contribute to share my knowledge with friends around the world.
+I am a FreeLancer developer. Programming .NET, Java, Python, ... I like to learn, exchange and share a little of my knowledge with friends and around the world.
 
 - 🔭 My current job is: Freelance Programmer
 - 🌱 Currently I am learning: Object Oriented Programming, Python and Game Development.
