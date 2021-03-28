@@ -21,15 +21,15 @@ I am a FreeLancer developer. Programming .NET, Java, Python, ... I like to learn
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="Jupyter" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/c-plus.png"/>
-<img align="left" alt="C++" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/c-sharp.png"/>
-<img align="left" alt="C++" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/java.png"/>
-<img align="left" alt="C++" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/unity.png"/>
-<img align="left" alt="C++" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/visualstudio.png"/>
-<img align="left" alt="C++" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/pycharm.png"/>
-<img align="left" alt="C++" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/phpstorm.png"/>
-<img align="left" alt="C++" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/intellij-idea.png"/>
-<img align="left" alt="C++" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/android-original.svg"/>
+<img align="left" alt="C++" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/c-plus.png"/>
+<img align="left" alt="C#" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/c-sharp.png"/>
+<img align="left" alt="Java" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/java.png"/>
+<img align="left" alt="Unity" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/unity.png"/>
+<img align="left" alt="VS" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/visualstudio.png"/>
+<img align="left" alt="IDE" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/pycharm.png"/>
+<img align="left" alt="IDE" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/phpstorm.png"/>
+<img align="left" alt="IDE" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/intellij-idea.png"/>
+<img align="left" alt="Android" width="40px" src="https://drakelam.github.io/DrakeUI-Framework/image/android-original.svg"/>
 
 
 <br />
