@@ -1,6 +1,6 @@
 ### Hi there, I'm Lam Van Dinh <img src="https://verified-badge.vedb.me/wp-content/uploads/2020/07/Facebook-Logo-Verified-Badge-PNG.png" align="center" height="20"/>
 ![Profile Views](https://komarev.com/ghpvc/?username=drakelam&color=blue)
-[![Gmail Badge](https://img.shields.io/badge/-dinhlam.music7830@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dinhlam.music7830@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-lamvandinhdev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lamvandinhdev@gmail.com "Connect via Email")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/DrakeLam.Dev "Connect on Facebook")
 
 <a href="https://drakelam.com"><img src="https://drakelam.github.io/DrakeUI-Framework/image/drakelam.gif" align="right" height="300" /></a>
