@@ -1,7 +1,12 @@
-### Hi there, I'm Lam Van Dinh <img src="https://verified-badge.vedb.me/wp-content/uploads/2020/07/Facebook-Logo-Verified-Badge-PNG.png" align="center" height="20"/>
-![Profile Views](https://komarev.com/ghpvc/?username=drakelam&color=blue)
-[![Gmail Badge](https://img.shields.io/badge/-lamvandinhdev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lamvandinhdev@gmail.com "Connect via Email")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/DrakeLam.Dev "Connect on Facebook")
+<!-- Header section  -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Drake Lam <img src="https://verified-badge.vedb.me/wp-content/uploads/2020/07/Facebook-Logo-Verified-Badge-PNG.png" align="center" height="20"/>
+         <!-- Profile views          -->
+<!-- Taken reference from website :   https://github.com/antonkomarev/github-profile-views-counter -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=drakelam&label=Profile%20Views%20(%20Visitors%20)&color=0e75b6&style=flat-square" alt="TechnicalAmanjeet" /> </p></h1>
+
 
 <a href="https://drakelam.com"><img src="https://drakelam.github.io/DrakeUI-Framework/image/drakelam.gif" align="right" height="300" /></a>
 
@@ -40,29 +45,7 @@ I am a FreeLancer developer. Programming .NET, Java, Python, ... I like to learn
 ### 📺 Github Public Stats: Drake Lam
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
-  
-   <a href="https://drakelam.com/"><img src="https://drakelam.github.io/DrakeUI-Framework/image/lamvandinh.jpg" align="right" height="275" /></a>
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api/?username=drakelam&count_private=true&theme=tokyonight&showicons=true)](https://github.com/drakelam)
 
   ----
-  
-</details>
-
-<details>
-  <summary>Find me around the web :globe_with_meridians:</summary>
-  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](# "Follow on Instagram")
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](# "My YouTube")
-[![Github Badge](https://img.shields.io/badge/-Github-039BE5?style=flat&logo=GitHub&logoColor=white)](https://gist.github.com/drakelam "Gist Github")
-----
-
-</details>
-  
-  
-  
-  
-  
-  
-  
-  
