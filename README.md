@@ -3,7 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Drake Lam <img src="https://verified-badge.vedb.me/wp-content/uploads/2020/07/Facebook-Logo-Verified-Badge-PNG.png" align="center" height="22"/>
-         <!-- Profile views          -->
+        </h1><h1 align="center"> <!-- Profile views          -->
 <!-- Taken reference from website :   https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=drakelam&label=Profile%20Views%20(%20Visitors%20)&color=0e75b6&style=flat-square" alt="TechnicalAmanjeet" /> </p></h1>
 
