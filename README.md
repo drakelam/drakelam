@@ -25,7 +25,7 @@ Most of my projects are open-source, built to learn, share, and support the deve
 - 🌱 Learning: OOP, Python, Game Development  
 - 🤝 Open to collaborate on: Educational or impactful tech projects  
 - 💬 Ask me about programming, cybersecurity, or anything tech-related  
-- 📫 Contact: [drakelam.com](https://drakelam.com)  
+- 📫 Contact: [drakelam.net](https://drakelam.net)  
 - ⚡ Fun fact: I believe in quiet progress and meaningful work.
 
 > *“Sometimes life will hit you in the head with a brick. Don’t lose faith.”* – Steve Jobs
